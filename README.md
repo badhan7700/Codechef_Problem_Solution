@@ -1,1 +1,1 @@
-# badhan7700-Codechef_Problem_Solution
+# Codechef_Problem_Solution
